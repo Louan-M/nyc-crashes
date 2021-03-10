@@ -6,6 +6,8 @@ This project consists of cleaning and preprocessing a dataset containing the dai
 
 More info about the dataset can be found [here](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95).
 
+The final goal is to deliver a cleaned dataset that will be process by a ML model for predicting the dangerousity of the streets in NYC.
+
 ## Who ?
 
 Carried out by **Louan Mastrogiovanni**,  Theano 2.27 promotion @BeCode
