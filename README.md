@@ -26,7 +26,7 @@ Cleaning and preprocessing mainly by using python libraries pandas, numpy and re
 
 ### Approach used
 1) Drop the columns that have too much NaN values
-2) Fill in the missing Zip code and borough. The assumption is that those data are relevant for the ML model. A use of an API (geocode ArcGIS) was necessary for this task.
+2) Fill in the missing Zip code and borough. These data were considered particularly relevant for the ML model. A use of an API (geocode ArcGIS) was necessary for this task.
 3) Consolidate the addresses into a single colum. 
 4) Cleaning + preprocessing (drop columns not needed anymore, replace NaN values, drop unecessary rows, change types, ...
 
