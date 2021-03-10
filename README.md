@@ -1,20 +1,14 @@
 # Data preprocessing - NYC Motor Vehicle Crashes Project
 
-- Developer Name: `Louan Mastrogiovanni`
-- Repository: `nyc-crashes`
-- Type of Challenge: `Consolidation`
-- Duration: `2 days`
-- Deadline: `10/03/2021 05:00 PM`
-- Deployment strategy :
-  - Github page
-- Team challenge : `solo`
-
 ## What ?
 
 This project consists of cleaning and preprocessing a dataset containing the daily reported Motor Vehicle Collisions/crashed that occured in New York City.
 
 More info about the dataset can be found [here](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95).
 
+## Who ?
+
+Carried out by **Louan Mastrogiovanni**,  Theano 2.27 promotion @BeCode
 
 
 ## Why ?
@@ -24,7 +18,7 @@ More info about the dataset can be found [here](https://data.cityofnewyork.us/Pu
 
 ## When ?
 
-This is a 3 days project. The dead line is on `10/03/2021 05:00 PM`
+This is a 2 days project. The dead line is on `10/03/2021 05:00 PM`.
 
 ## How ?
 
