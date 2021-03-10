@@ -26,7 +26,7 @@ This is a 2 days project. The dead line is on `10/03/2021 05:00 PM`.
 
 ## How ?
 
-### Approach used
+### Overal process
 1) Drop the columns that have too much NaN values
 2) Fill in the missing Zip code and borough. These data were considered particularly relevant for the ML model. A use of an API (geocode ArcGIS) was necessary for this task.
 3) Consolidate the addresses into a single colum. 
