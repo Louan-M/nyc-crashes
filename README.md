@@ -39,3 +39,6 @@ This repository contains the cleaned dataset `Final_dataset.csv` and the source 
 *Shape of `Final_dataset.csv` :* 
 &nbsp;
 **(92046 rows x 22 columns)**
+&nbsp;
+&nbsp;
+## Thank you for reading!
