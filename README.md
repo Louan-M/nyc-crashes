@@ -1,5 +1,6 @@
 # Data preprocessing - NYC Motor Vehicle Crashes Project
 
+- Developer Name: `Louan Mastrogiovanni`
 - Repository: `nyc-crashes`
 - Type of Challenge: `Consolidation`
 - Duration: `2 days`
@@ -13,6 +14,7 @@
 This project consists of cleaning and preprocessing a dataset containing the daily reported Motor Vehicle Collisions/crashed that occured in New York City.
 
 More info about the dataset can be found [here](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95).
+
 
 
 ## Why ?
