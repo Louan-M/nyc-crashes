@@ -1,5 +1,7 @@
 # Data preprocessing - NYC Motor Vehicle Crashes Project
 
+<img src="https://github.com/Louan-M/nyc-crashes/blob/main/Images/boroughs_NYC.png" width="550">
+
 ## What ?
 
 This project consists of cleaning and preprocessing a dataset containing the daily reported Motor Vehicle Collisions/crashed that occured in New York City.
